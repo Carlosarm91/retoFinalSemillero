@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Compra componente electrónico" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-09T04:46:46" hostname="SQABOG-SQA4337" time="25.969">
+  <properties/>
+  <testcase name="compra componente electronico correctamente" classname="Compra componente electrónico" time="25.969"/>
+  <system-out><![CDATA[Id: 2474859
+Amount: 790 USD
+Card Number: 4970100000000014
+Name: Carlos Sarmiento
+Date: 8/11/2022
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 60364
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+dic 08, 2022 11:46:49 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected upstream dialect: W3C
+dic 08, 2022 11:46:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+ADVERTENCIA: Unable to find an exact match for CDP version 108, so returning the closest version found: 106
+dic 08, 2022 11:46:49 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMACIÓN: Found CDP implementation for version 108 of 106
+]]></system-err>
+</testsuite>
